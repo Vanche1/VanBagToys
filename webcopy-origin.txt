@@ -1,0 +1,772 @@
+Uri: https://lala-fanfan.ru/
+File Name: C:\Downloaded Web Sites\lala-fanfan.ru\index.htm
+Content Type: text/html
+
+Uri: https://lala-fanfan.ru/category/myagkaya-igrushka-lalafanfan/
+File Name: C:\Downloaded Web Sites\lala-fanfan.ru\category\myagkaya-igrushka-lalafanfan\index.htm
+Content Type: text/html
+
+Uri: https://lala-fanfan.ru/category/myagkaya-igrushka-lalafanfan/?sort=create_datetime&order=asc
+File Name: C:\Downloaded Web Sites\lala-fanfan.ru\category\myagkaya-igrushka-lalafanfan\index-11.htm
+Content Type: text/html
+
+Uri: https://lala-fanfan.ru/category/myagkaya-igrushka-lalafanfan/?sort=create_datetime&order=desc
+File Name: C:\Downloaded Web Sites\lala-fanfan.ru\category\myagkaya-igrushka-lalafanfan\index-5.htm
+Content Type: text/html
+
+Uri: https://lala-fanfan.ru/category/myagkaya-igrushka-lalafanfan/?sort=name&order=asc
+File Name: C:\Downloaded Web Sites\lala-fanfan.ru\category\myagkaya-igrushka-lalafanfan\index-1.htm
+Content Type: text/html
+
+Uri: https://lala-fanfan.ru/category/myagkaya-igrushka-lalafanfan/?sort=name&order=desc
+File Name: C:\Downloaded Web Sites\lala-fanfan.ru\category\myagkaya-igrushka-lalafanfan\index-7.htm
+Content Type: text/html
+
+Uri: https://lala-fanfan.ru/category/myagkaya-igrushka-lalafanfan/?sort=price&order=asc
+File Name: C:\Downloaded Web Sites\lala-fanfan.ru\category\myagkaya-igrushka-lalafanfan\index-2.htm
+Content Type: text/html
+
+Uri: https://lala-fanfan.ru/category/myagkaya-igrushka-lalafanfan/?sort=price&order=desc
+File Name: C:\Downloaded Web Sites\lala-fanfan.ru\category\myagkaya-igrushka-lalafanfan\index-8.htm
+Content Type: text/html
+
+Uri: https://lala-fanfan.ru/category/myagkaya-igrushka-lalafanfan/?sort=rating&order=asc
+File Name: C:\Downloaded Web Sites\lala-fanfan.ru\category\myagkaya-igrushka-lalafanfan\index-10.htm
+Content Type: text/html
+
+Uri: https://lala-fanfan.ru/category/myagkaya-igrushka-lalafanfan/?sort=rating&order=desc
+File Name: C:\Downloaded Web Sites\lala-fanfan.ru\category\myagkaya-igrushka-lalafanfan\index-4.htm
+Content Type: text/html
+
+Uri: https://lala-fanfan.ru/category/myagkaya-igrushka-lalafanfan/?sort=stock&order=asc
+File Name: C:\Downloaded Web Sites\lala-fanfan.ru\category\myagkaya-igrushka-lalafanfan\index-12.htm
+Content Type: text/html
+
+Uri: https://lala-fanfan.ru/category/myagkaya-igrushka-lalafanfan/?sort=stock&order=desc
+File Name: C:\Downloaded Web Sites\lala-fanfan.ru\category\myagkaya-igrushka-lalafanfan\index-6.htm
+Content Type: text/html
+
+Uri: https://lala-fanfan.ru/category/myagkaya-igrushka-lalafanfan/?sort=total_sales&order=asc
+File Name: C:\Downloaded Web Sites\lala-fanfan.ru\category\myagkaya-igrushka-lalafanfan\index-9.htm
+Content Type: text/html
+
+Uri: https://lala-fanfan.ru/category/myagkaya-igrushka-lalafanfan/?sort=total_sales&order=desc
+File Name: C:\Downloaded Web Sites\lala-fanfan.ru\category\myagkaya-igrushka-lalafanfan\index-3.htm
+Content Type: text/html
+
+Uri: https://lala-fanfan.ru/category/odezhda-dly-lalafanfan/
+File Name: C:\Downloaded Web Sites\lala-fanfan.ru\category\odezhda-dly-lalafanfan\index.htm
+Content Type: text/html
+
+Uri: https://lala-fanfan.ru/category/odezhda-dly-lalafanfan/?sort=create_datetime&order=asc
+File Name: C:\Downloaded Web Sites\lala-fanfan.ru\category\odezhda-dly-lalafanfan\index-11.htm
+Content Type: text/html
+
+Uri: https://lala-fanfan.ru/category/odezhda-dly-lalafanfan/?sort=create_datetime&order=desc
+File Name: C:\Downloaded Web Sites\lala-fanfan.ru\category\odezhda-dly-lalafanfan\index-5.htm
+Content Type: text/html
+
+Uri: https://lala-fanfan.ru/category/odezhda-dly-lalafanfan/?sort=name&order=asc
+File Name: C:\Downloaded Web Sites\lala-fanfan.ru\category\odezhda-dly-lalafanfan\index-7.htm
+Content Type: text/html
+
+Uri: https://lala-fanfan.ru/category/odezhda-dly-lalafanfan/?sort=name&order=desc
+File Name: C:\Downloaded Web Sites\lala-fanfan.ru\category\odezhda-dly-lalafanfan\index-1.htm
+Content Type: text/html
+
+Uri: https://lala-fanfan.ru/category/odezhda-dly-lalafanfan/?sort=price&order=asc
+File Name: C:\Downloaded Web Sites\lala-fanfan.ru\category\odezhda-dly-lalafanfan\index-2.htm
+Content Type: text/html
+
+Uri: https://lala-fanfan.ru/category/odezhda-dly-lalafanfan/?sort=price&order=desc
+File Name: C:\Downloaded Web Sites\lala-fanfan.ru\category\odezhda-dly-lalafanfan\index-8.htm
+Content Type: text/html
+
+Uri: https://lala-fanfan.ru/category/odezhda-dly-lalafanfan/?sort=rating&order=asc
+File Name: C:\Downloaded Web Sites\lala-fanfan.ru\category\odezhda-dly-lalafanfan\index-10.htm
+Content Type: text/html
+
+Uri: https://lala-fanfan.ru/category/odezhda-dly-lalafanfan/?sort=rating&order=desc
+File Name: C:\Downloaded Web Sites\lala-fanfan.ru\category\odezhda-dly-lalafanfan\index-4.htm
+Content Type: text/html
+
+Uri: https://lala-fanfan.ru/category/odezhda-dly-lalafanfan/?sort=stock&order=asc
+File Name: C:\Downloaded Web Sites\lala-fanfan.ru\category\odezhda-dly-lalafanfan\index-12.htm
+Content Type: text/html
+
+Uri: https://lala-fanfan.ru/category/odezhda-dly-lalafanfan/?sort=stock&order=desc
+File Name: C:\Downloaded Web Sites\lala-fanfan.ru\category\odezhda-dly-lalafanfan\index-6.htm
+Content Type: text/html
+
+Uri: https://lala-fanfan.ru/category/odezhda-dly-lalafanfan/?sort=total_sales&order=asc
+File Name: C:\Downloaded Web Sites\lala-fanfan.ru\category\odezhda-dly-lalafanfan\index-9.htm
+Content Type: text/html
+
+Uri: https://lala-fanfan.ru/category/odezhda-dly-lalafanfan/?sort=total_sales&order=desc
+File Name: C:\Downloaded Web Sites\lala-fanfan.ru\category\odezhda-dly-lalafanfan\index-3.htm
+Content Type: text/html
+
+Uri: https://lala-fanfan.ru/category/utochka-lalafanfan-bez-odezhdy/
+File Name: C:\Downloaded Web Sites\lala-fanfan.ru\category\utochka-lalafanfan-bez-odezhdy\index.htm
+Content Type: text/html
+
+Uri: https://lala-fanfan.ru/favicon.png
+File Name: C:\Downloaded Web Sites\lala-fanfan.ru\favicon.png
+Content Type: image/png
+
+Uri: https://lala-fanfan.ru/favicon.svg
+File Name: C:\Downloaded Web Sites\lala-fanfan.ru\favicon.svg
+Content Type: image/svg+xml
+
+Uri: https://lala-fanfan.ru/order/
+File Name: C:\Downloaded Web Sites\lala-fanfan.ru\order\index.htm
+Content Type: text/html
+
+Uri: https://lala-fanfan.ru/product/komplekt-odezhdy-lalafanfan-belyj-sviter-i-krasnaya-shapochka-sharf/
+File Name: C:\Downloaded Web Sites\lala-fanfan.ru\product\komplekt-odezhdy-lalafanfan-belyj-sviter-i-krasnaya-shapochka-sharf\index.htm
+Content Type: text/html
+
+Uri: https://lala-fanfan.ru/product/komplekt-odezhdy-lalafanfan-krasnyj-sviter-v-polosku-i-krasnaya-shapochka-sharf/
+File Name: C:\Downloaded Web Sites\lala-fanfan.ru\product\komplekt-odezhdy-lalafanfan-krasnyj-sviter-v-polosku-i-krasnaya-shapochka-sharf\index.htm
+Content Type: text/html
+
+Uri: https://lala-fanfan.ru/product/komplekt-odezhdy-lalafanfan-seryj-sviter-i-povyazka-s-bantom/
+File Name: C:\Downloaded Web Sites\lala-fanfan.ru\product\komplekt-odezhdy-lalafanfan-seryj-sviter-i-povyazka-s-bantom\index.htm
+Content Type: text/html
+
+Uri: https://lala-fanfan.ru/product/komplekt-odezhdy-lalafanfan-sinyaya-sviter-i-povyazka-s-bolshimi-glazami/
+File Name: C:\Downloaded Web Sites\lala-fanfan.ru\product\komplekt-odezhdy-lalafanfan-sinyaya-sviter-i-povyazka-s-bolshimi-glazami\index.htm
+Content Type: text/html
+
+Uri: https://lala-fanfan.ru/product/komplekt-odezhdy-lalafanfan-sviter-i-krasnaya-shapochka/
+File Name: C:\Downloaded Web Sites\lala-fanfan.ru\product\komplekt-odezhdy-lalafanfan-sviter-i-krasnaya-shapochka\index.htm
+Content Type: text/html
+
+Uri: https://lala-fanfan.ru/product/lalafanfan-utka-lalafanfan-v-ochkakh-svitere-i-s-povyazkoy-iz-tik-tok/
+File Name: C:\Downloaded Web Sites\lala-fanfan.ru\product\lalafanfan-utka-lalafanfan-v-ochkakh-svitere-i-s-povyazkoy-iz-tik-tok\index.htm
+Content Type: text/html
+
+Uri: https://lala-fanfan.ru/product/lalafanfan-utochka-iz-tik-tok-30-sm-v-ochkakh-svitere-i-s-povyazkoy/
+File Name: C:\Downloaded Web Sites\lala-fanfan.ru\product\lalafanfan-utochka-iz-tik-tok-30-sm-v-ochkakh-svitere-i-s-povyazkoy\index.htm
+Content Type: text/html
+
+Uri: https://lala-fanfan.ru/product/myagkaya-igrushka-utochka-lalafanfan-lalafanfan-duck-plyushevaya-kukla-v-ochkakh-iz-tiktok-tiktok/
+File Name: C:\Downloaded Web Sites\lala-fanfan.ru\product\myagkaya-igrushka-utochka-lalafanfan-lalafanfan-duck-plyushevaya-kukla-v-ochkakh-iz-tiktok-tiktok\index.htm
+Content Type: text/html
+
+Uri: https://lala-fanfan.ru/product/myagkaya-plyushevaya-utochka-lalafanfan-30-sm-v-ochkah-svitere-i-s-povyazkoj-tre/
+File Name: C:\Downloaded Web Sites\lala-fanfan.ru\product\myagkaya-plyushevaya-utochka-lalafanfan-30-sm-v-ochkah-svitere-i-s-povyazkoj-tre\index.htm
+Content Type: text/html
+
+Uri: https://lala-fanfan.ru/product/odezhda-lalafanfan-povyazka-s-bolshimi-glazami/
+File Name: C:\Downloaded Web Sites\lala-fanfan.ru\product\odezhda-lalafanfan-povyazka-s-bolshimi-glazami\index.htm
+Content Type: text/html
+
+Uri: https://lala-fanfan.ru/product/odezhda-lalafanfan-seraya-shapochka-s-glazami/
+File Name: C:\Downloaded Web Sites\lala-fanfan.ru\product\odezhda-lalafanfan-seraya-shapochka-s-glazami\index.htm
+Content Type: text/html
+
+Uri: https://lala-fanfan.ru/product/odezhda-lalafanfan-sinij-sviter/
+File Name: C:\Downloaded Web Sites\lala-fanfan.ru\product\odezhda-lalafanfan-sinij-sviter\index.htm
+Content Type: text/html
+
+Uri: https://lala-fanfan.ru/product/utka-lalafanfan-belaya-lalafanfan-duck/
+File Name: C:\Downloaded Web Sites\lala-fanfan.ru\product\utka-lalafanfan-belaya-lalafanfan-duck\index.htm
+Content Type: text/html
+
+Uri: https://lala-fanfan.ru/product/utka-lalafanfan-rozovaya-lalafanfan-duck/
+File Name: C:\Downloaded Web Sites\lala-fanfan.ru\product\utka-lalafanfan-rozovaya-lalafanfan-duck\index.htm
+Content Type: text/html
+
+Uri: https://lala-fanfan.ru/product/utka-lalafanfan-zheltaya-lalafanfan-duck/
+File Name: C:\Downloaded Web Sites\lala-fanfan.ru\product\utka-lalafanfan-zheltaya-lalafanfan-duck\index.htm
+Content Type: text/html
+
+Uri: https://lala-fanfan.ru/product/utochka-lalafanfan-30-sm-v-ochkakh-svitere-i-s-povyazkoy-trend-tik-tok/
+File Name: C:\Downloaded Web Sites\lala-fanfan.ru\product\utochka-lalafanfan-30-sm-v-ochkakh-svitere-i-s-povyazkoy-trend-tik-tok\index.htm
+Content Type: text/html
+
+Uri: https://lala-fanfan.ru/wa-content/font/ruble/arial/alsrubl-arial-bold.eot
+File Name: C:\Downloaded Web Sites\lala-fanfan.ru\wa-content\font\ruble\arial\alsrubl-arial-bold.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://lala-fanfan.ru/wa-content/font/ruble/arial/alsrubl-arial-bold.eot?
+File Name: C:\Downloaded Web Sites\lala-fanfan.ru\wa-content\font\ruble\arial\alsrubl-arial-bold-1.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://lala-fanfan.ru/wa-content/font/ruble/arial/alsrubl-arial-bold.svg
+File Name: C:\Downloaded Web Sites\lala-fanfan.ru\wa-content\font\ruble\arial\alsrubl-arial-bold.svg
+Content Type: image/svg+xml
+
+Uri: https://lala-fanfan.ru/wa-content/font/ruble/arial/alsrubl-arial-bold.ttf
+File Name: C:\Downloaded Web Sites\lala-fanfan.ru\wa-content\font\ruble\arial\alsrubl-arial-bold.ttf
+Content Type: application/octet-stream
+
+Uri: https://lala-fanfan.ru/wa-content/font/ruble/arial/alsrubl-arial-bold.woff
+File Name: C:\Downloaded Web Sites\lala-fanfan.ru\wa-content\font\ruble\arial\alsrubl-arial-bold.woff
+Content Type: application/font-woff
+
+Uri: https://lala-fanfan.ru/wa-content/font/ruble/arial/alsrubl-arial-bolditalic.eot
+File Name: C:\Downloaded Web Sites\lala-fanfan.ru\wa-content\font\ruble\arial\alsrubl-arial-bolditalic.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://lala-fanfan.ru/wa-content/font/ruble/arial/alsrubl-arial-bolditalic.eot?
+File Name: C:\Downloaded Web Sites\lala-fanfan.ru\wa-content\font\ruble\arial\alsrubl-arial-bolditalic-1.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://lala-fanfan.ru/wa-content/font/ruble/arial/alsrubl-arial-bolditalic.svg
+File Name: C:\Downloaded Web Sites\lala-fanfan.ru\wa-content\font\ruble\arial\alsrubl-arial-bolditalic.svg
+Content Type: image/svg+xml
+
+Uri: https://lala-fanfan.ru/wa-content/font/ruble/arial/alsrubl-arial-bolditalic.ttf
+File Name: C:\Downloaded Web Sites\lala-fanfan.ru\wa-content\font\ruble\arial\alsrubl-arial-bolditalic.ttf
+Content Type: application/octet-stream
+
+Uri: https://lala-fanfan.ru/wa-content/font/ruble/arial/alsrubl-arial-bolditalic.woff
+File Name: C:\Downloaded Web Sites\lala-fanfan.ru\wa-content\font\ruble\arial\alsrubl-arial-bolditalic.woff
+Content Type: application/font-woff
+
+Uri: https://lala-fanfan.ru/wa-content/font/ruble/arial/alsrubl-arial-italic.eot
+File Name: C:\Downloaded Web Sites\lala-fanfan.ru\wa-content\font\ruble\arial\alsrubl-arial-italic.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://lala-fanfan.ru/wa-content/font/ruble/arial/alsrubl-arial-italic.eot?
+File Name: C:\Downloaded Web Sites\lala-fanfan.ru\wa-content\font\ruble\arial\alsrubl-arial-italic-1.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://lala-fanfan.ru/wa-content/font/ruble/arial/alsrubl-arial-italic.svg
+File Name: C:\Downloaded Web Sites\lala-fanfan.ru\wa-content\font\ruble\arial\alsrubl-arial-italic.svg
+Content Type: image/svg+xml
+
+Uri: https://lala-fanfan.ru/wa-content/font/ruble/arial/alsrubl-arial-italic.ttf
+File Name: C:\Downloaded Web Sites\lala-fanfan.ru\wa-content\font\ruble\arial\alsrubl-arial-italic.ttf
+Content Type: application/octet-stream
+
+Uri: https://lala-fanfan.ru/wa-content/font/ruble/arial/alsrubl-arial-italic.woff
+File Name: C:\Downloaded Web Sites\lala-fanfan.ru\wa-content\font\ruble\arial\alsrubl-arial-italic.woff
+Content Type: application/font-woff
+
+Uri: https://lala-fanfan.ru/wa-content/font/ruble/arial/alsrubl-arial-regular.eot
+File Name: C:\Downloaded Web Sites\lala-fanfan.ru\wa-content\font\ruble\arial\alsrubl-arial-regular.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://lala-fanfan.ru/wa-content/font/ruble/arial/alsrubl-arial-regular.eot?
+File Name: C:\Downloaded Web Sites\lala-fanfan.ru\wa-content\font\ruble\arial\alsrubl-arial-regular-1.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://lala-fanfan.ru/wa-content/font/ruble/arial/alsrubl-arial-regular.svg
+File Name: C:\Downloaded Web Sites\lala-fanfan.ru\wa-content\font\ruble\arial\alsrubl-arial-regular.svg
+Content Type: image/svg+xml
+
+Uri: https://lala-fanfan.ru/wa-content/font/ruble/arial/alsrubl-arial-regular.ttf
+File Name: C:\Downloaded Web Sites\lala-fanfan.ru\wa-content\font\ruble\arial\alsrubl-arial-regular.ttf
+Content Type: application/octet-stream
+
+Uri: https://lala-fanfan.ru/wa-content/font/ruble/arial/alsrubl-arial-regular.woff
+File Name: C:\Downloaded Web Sites\lala-fanfan.ru\wa-content\font\ruble\arial\alsrubl-arial-regular.woff
+Content Type: application/font-woff
+
+Uri: https://lala-fanfan.ru/wa-content/font/ruble/arial/fontface.css
+File Name: C:\Downloaded Web Sites\lala-fanfan.ru\wa-content\font\ruble\arial\fontface.css
+Content Type: text/css
+
+Uri: https://lala-fanfan.ru/wa-data/public/photos/01/00/1/1.1280.jpg
+File Name: C:\Downloaded Web Sites\lala-fanfan.ru\wa-data\public\photos\01\00\1\1.1280.jpg
+Content Type: image/jpeg
+
+Uri: https://lala-fanfan.ru/wa-data/public/photos/01/00/1/1.320x240.jpg
+File Name: C:\Downloaded Web Sites\lala-fanfan.ru\wa-data\public\photos\01\00\1\1.320x240.jpg
+Content Type: image/jpeg
+
+Uri: https://lala-fanfan.ru/wa-data/public/photos/02/00/2/2.1280.jpg
+File Name: C:\Downloaded Web Sites\lala-fanfan.ru\wa-data\public\photos\02\00\2\2.1280.jpg
+Content Type: image/jpeg
+
+Uri: https://lala-fanfan.ru/wa-data/public/photos/02/00/2/2.320x240.jpg
+File Name: C:\Downloaded Web Sites\lala-fanfan.ru\wa-data\public\photos\02\00\2\2.320x240.jpg
+Content Type: image/jpeg
+
+Uri: https://lala-fanfan.ru/wa-data/public/photos/03/00/3/3.1280.jpg
+File Name: C:\Downloaded Web Sites\lala-fanfan.ru\wa-data\public\photos\03\00\3\3.1280.jpg
+Content Type: image/jpeg
+
+Uri: https://lala-fanfan.ru/wa-data/public/photos/03/00/3/3.320x240.jpg
+File Name: C:\Downloaded Web Sites\lala-fanfan.ru\wa-data\public\photos\03\00\3\3.320x240.jpg
+Content Type: image/jpeg
+
+Uri: https://lala-fanfan.ru/wa-data/public/photos/04/00/4/4.1280.jpg
+File Name: C:\Downloaded Web Sites\lala-fanfan.ru\wa-data\public\photos\04\00\4\4.1280.jpg
+Content Type: image/jpeg
+
+Uri: https://lala-fanfan.ru/wa-data/public/photos/04/00/4/4.320x240.jpg
+File Name: C:\Downloaded Web Sites\lala-fanfan.ru\wa-data\public\photos\04\00\4\4.320x240.jpg
+Content Type: image/jpeg
+
+Uri: https://lala-fanfan.ru/wa-data/public/photos/05/00/5/5.1280.jpg
+File Name: C:\Downloaded Web Sites\lala-fanfan.ru\wa-data\public\photos\05\00\5\5.1280.jpg
+Content Type: image/jpeg
+
+Uri: https://lala-fanfan.ru/wa-data/public/photos/05/00/5/5.320x240.jpg
+File Name: C:\Downloaded Web Sites\lala-fanfan.ru\wa-data\public\photos\05\00\5\5.320x240.jpg
+Content Type: image/jpeg
+
+Uri: https://lala-fanfan.ru/wa-data/public/shop/products/47/11/11147/images/12000/12000.0x290.jpeg
+File Name: C:\Downloaded Web Sites\lala-fanfan.ru\wa-data\public\shop\products\47\11\11147\images\12000\12000.0x290.jpeg
+Content Type: image/jpeg
+
+Uri: https://lala-fanfan.ru/wa-data/public/shop/products/47/11/11147/images/12000/12000.0x95.jpeg
+File Name: C:\Downloaded Web Sites\lala-fanfan.ru\wa-data\public\shop\products\47\11\11147\images\12000\12000.0x95.jpeg
+Content Type: image/jpeg
+
+Uri: https://lala-fanfan.ru/wa-data/public/shop/products/47/11/11147/images/12000/12000.570.jpeg
+File Name: C:\Downloaded Web Sites\lala-fanfan.ru\wa-data\public\shop\products\47\11\11147\images\12000\12000.570.jpeg
+Content Type: image/jpeg
+
+Uri: https://lala-fanfan.ru/wa-data/public/shop/products/47/11/11147/images/12000/12000.970.jpeg
+File Name: C:\Downloaded Web Sites\lala-fanfan.ru\wa-data\public\shop\products\47\11\11147\images\12000\12000.970.jpeg
+Content Type: image/jpeg
+
+Uri: https://lala-fanfan.ru/wa-data/public/shop/products/48/11/11148/images/12001/12001.0x290.jpg
+File Name: C:\Downloaded Web Sites\lala-fanfan.ru\wa-data\public\shop\products\48\11\11148\images\12001\12001.0x290.jpg
+Content Type: image/jpeg
+
+Uri: https://lala-fanfan.ru/wa-data/public/shop/products/48/11/11148/images/12001/12001.0x95.jpg
+File Name: C:\Downloaded Web Sites\lala-fanfan.ru\wa-data\public\shop\products\48\11\11148\images\12001\12001.0x95.jpg
+Content Type: image/jpeg
+
+Uri: https://lala-fanfan.ru/wa-data/public/shop/products/48/11/11148/images/12001/12001.570.jpg
+File Name: C:\Downloaded Web Sites\lala-fanfan.ru\wa-data\public\shop\products\48\11\11148\images\12001\12001.570.jpg
+Content Type: image/jpeg
+
+Uri: https://lala-fanfan.ru/wa-data/public/shop/products/48/11/11148/images/12001/12001.970.jpg
+File Name: C:\Downloaded Web Sites\lala-fanfan.ru\wa-data\public\shop\products\48\11\11148\images\12001\12001.970.jpg
+Content Type: image/jpeg
+
+Uri: https://lala-fanfan.ru/wa-data/public/shop/products/49/11/11149/images/12002/12002.0x290.jpg
+File Name: C:\Downloaded Web Sites\lala-fanfan.ru\wa-data\public\shop\products\49\11\11149\images\12002\12002.0x290.jpg
+Content Type: image/jpeg
+
+Uri: https://lala-fanfan.ru/wa-data/public/shop/products/49/11/11149/images/12002/12002.0x95.jpg
+File Name: C:\Downloaded Web Sites\lala-fanfan.ru\wa-data\public\shop\products\49\11\11149\images\12002\12002.0x95.jpg
+Content Type: image/jpeg
+
+Uri: https://lala-fanfan.ru/wa-data/public/shop/products/49/11/11149/images/12002/12002.570.jpg
+File Name: C:\Downloaded Web Sites\lala-fanfan.ru\wa-data\public\shop\products\49\11\11149\images\12002\12002.570.jpg
+Content Type: image/jpeg
+
+Uri: https://lala-fanfan.ru/wa-data/public/shop/products/49/11/11149/images/12002/12002.970.jpg
+File Name: C:\Downloaded Web Sites\lala-fanfan.ru\wa-data\public\shop\products\49\11\11149\images\12002\12002.970.jpg
+Content Type: image/jpeg
+
+Uri: https://lala-fanfan.ru/wa-data/public/shop/products/50/11/11150/images/12003/12003.0x290.jpg
+File Name: C:\Downloaded Web Sites\lala-fanfan.ru\wa-data\public\shop\products\50\11\11150\images\12003\12003.0x290.jpg
+Content Type: image/jpeg
+
+Uri: https://lala-fanfan.ru/wa-data/public/shop/products/50/11/11150/images/12003/12003.0x95.jpg
+File Name: C:\Downloaded Web Sites\lala-fanfan.ru\wa-data\public\shop\products\50\11\11150\images\12003\12003.0x95.jpg
+Content Type: image/jpeg
+
+Uri: https://lala-fanfan.ru/wa-data/public/shop/products/50/11/11150/images/12003/12003.570.jpg
+File Name: C:\Downloaded Web Sites\lala-fanfan.ru\wa-data\public\shop\products\50\11\11150\images\12003\12003.570.jpg
+Content Type: image/jpeg
+
+Uri: https://lala-fanfan.ru/wa-data/public/shop/products/50/11/11150/images/12003/12003.970.jpg
+File Name: C:\Downloaded Web Sites\lala-fanfan.ru\wa-data\public\shop\products\50\11\11150\images\12003\12003.970.jpg
+Content Type: image/jpeg
+
+Uri: https://lala-fanfan.ru/wa-data/public/shop/products/52/11/11152/images/12005/12005.0x290.jpg
+File Name: C:\Downloaded Web Sites\lala-fanfan.ru\wa-data\public\shop\products\52\11\11152\images\12005\12005.0x290.jpg
+Content Type: image/jpeg
+
+Uri: https://lala-fanfan.ru/wa-data/public/shop/products/52/11/11152/images/12005/12005.0x95.jpg
+File Name: C:\Downloaded Web Sites\lala-fanfan.ru\wa-data\public\shop\products\52\11\11152\images\12005\12005.0x95.jpg
+Content Type: image/jpeg
+
+Uri: https://lala-fanfan.ru/wa-data/public/shop/products/52/11/11152/images/12005/12005.570.jpg
+File Name: C:\Downloaded Web Sites\lala-fanfan.ru\wa-data\public\shop\products\52\11\11152\images\12005\12005.570.jpg
+Content Type: image/jpeg
+
+Uri: https://lala-fanfan.ru/wa-data/public/shop/products/52/11/11152/images/12005/12005.970.jpg
+File Name: C:\Downloaded Web Sites\lala-fanfan.ru\wa-data\public\shop\products\52\11\11152\images\12005\12005.970.jpg
+Content Type: image/jpeg
+
+Uri: https://lala-fanfan.ru/wa-data/public/shop/products/53/11/11153/images/12006/12006.0x290.jpg
+File Name: C:\Downloaded Web Sites\lala-fanfan.ru\wa-data\public\shop\products\53\11\11153\images\12006\12006.0x290.jpg
+Content Type: image/jpeg
+
+Uri: https://lala-fanfan.ru/wa-data/public/shop/products/53/11/11153/images/12006/12006.0x95.jpg
+File Name: C:\Downloaded Web Sites\lala-fanfan.ru\wa-data\public\shop\products\53\11\11153\images\12006\12006.0x95.jpg
+Content Type: image/jpeg
+
+Uri: https://lala-fanfan.ru/wa-data/public/shop/products/53/11/11153/images/12006/12006.570.jpg
+File Name: C:\Downloaded Web Sites\lala-fanfan.ru\wa-data\public\shop\products\53\11\11153\images\12006\12006.570.jpg
+Content Type: image/jpeg
+
+Uri: https://lala-fanfan.ru/wa-data/public/shop/products/53/11/11153/images/12006/12006.970.jpg
+File Name: C:\Downloaded Web Sites\lala-fanfan.ru\wa-data\public\shop\products\53\11\11153\images\12006\12006.970.jpg
+Content Type: image/jpeg
+
+Uri: https://lala-fanfan.ru/wa-data/public/shop/products/54/11/11154/images/12008/12008.0x290.jpg
+File Name: C:\Downloaded Web Sites\lala-fanfan.ru\wa-data\public\shop\products\54\11\11154\images\12008\12008.0x290.jpg
+Content Type: image/jpeg
+
+Uri: https://lala-fanfan.ru/wa-data/public/shop/products/54/11/11154/images/12008/12008.0x95.jpg
+File Name: C:\Downloaded Web Sites\lala-fanfan.ru\wa-data\public\shop\products\54\11\11154\images\12008\12008.0x95.jpg
+Content Type: image/jpeg
+
+Uri: https://lala-fanfan.ru/wa-data/public/shop/products/54/11/11154/images/12008/12008.570.jpg
+File Name: C:\Downloaded Web Sites\lala-fanfan.ru\wa-data\public\shop\products\54\11\11154\images\12008\12008.570.jpg
+Content Type: image/jpeg
+
+Uri: https://lala-fanfan.ru/wa-data/public/shop/products/54/11/11154/images/12008/12008.970.jpg
+File Name: C:\Downloaded Web Sites\lala-fanfan.ru\wa-data\public\shop\products\54\11\11154\images\12008\12008.970.jpg
+Content Type: image/jpeg
+
+Uri: https://lala-fanfan.ru/wa-data/public/shop/products/56/11/11156/images/12012/12012.0x290.jpg
+File Name: C:\Downloaded Web Sites\lala-fanfan.ru\wa-data\public\shop\products\56\11\11156\images\12012\12012.0x290.jpg
+Content Type: image/jpeg
+
+Uri: https://lala-fanfan.ru/wa-data/public/shop/products/56/11/11156/images/12012/12012.0x95.jpg
+File Name: C:\Downloaded Web Sites\lala-fanfan.ru\wa-data\public\shop\products\56\11\11156\images\12012\12012.0x95.jpg
+Content Type: image/jpeg
+
+Uri: https://lala-fanfan.ru/wa-data/public/shop/products/56/11/11156/images/12012/12012.570.jpg
+File Name: C:\Downloaded Web Sites\lala-fanfan.ru\wa-data\public\shop\products\56\11\11156\images\12012\12012.570.jpg
+Content Type: image/jpeg
+
+Uri: https://lala-fanfan.ru/wa-data/public/shop/products/56/11/11156/images/12012/12012.970.jpg
+File Name: C:\Downloaded Web Sites\lala-fanfan.ru\wa-data\public\shop\products\56\11\11156\images\12012\12012.970.jpg
+Content Type: image/jpeg
+
+Uri: https://lala-fanfan.ru/wa-data/public/shop/products/57/11/11157/images/12014/12014.0x290.jpg
+File Name: C:\Downloaded Web Sites\lala-fanfan.ru\wa-data\public\shop\products\57\11\11157\images\12014\12014.0x290.jpg
+Content Type: image/jpeg
+
+Uri: https://lala-fanfan.ru/wa-data/public/shop/products/57/11/11157/images/12014/12014.0x95.jpg
+File Name: C:\Downloaded Web Sites\lala-fanfan.ru\wa-data\public\shop\products\57\11\11157\images\12014\12014.0x95.jpg
+Content Type: image/jpeg
+
+Uri: https://lala-fanfan.ru/wa-data/public/shop/products/57/11/11157/images/12014/12014.570.jpg
+File Name: C:\Downloaded Web Sites\lala-fanfan.ru\wa-data\public\shop\products\57\11\11157\images\12014\12014.570.jpg
+Content Type: image/jpeg
+
+Uri: https://lala-fanfan.ru/wa-data/public/shop/products/57/11/11157/images/12014/12014.970.jpg
+File Name: C:\Downloaded Web Sites\lala-fanfan.ru\wa-data\public\shop\products\57\11\11157\images\12014\12014.970.jpg
+Content Type: image/jpeg
+
+Uri: https://lala-fanfan.ru/wa-data/public/shop/products/58/11/11158/images/12016/12016.0x290.jpg
+File Name: C:\Downloaded Web Sites\lala-fanfan.ru\wa-data\public\shop\products\58\11\11158\images\12016\12016.0x290.jpg
+Content Type: image/jpeg
+
+Uri: https://lala-fanfan.ru/wa-data/public/shop/products/58/11/11158/images/12016/12016.0x95.jpg
+File Name: C:\Downloaded Web Sites\lala-fanfan.ru\wa-data\public\shop\products\58\11\11158\images\12016\12016.0x95.jpg
+Content Type: image/jpeg
+
+Uri: https://lala-fanfan.ru/wa-data/public/shop/products/58/11/11158/images/12016/12016.570.jpg
+File Name: C:\Downloaded Web Sites\lala-fanfan.ru\wa-data\public\shop\products\58\11\11158\images\12016\12016.570.jpg
+Content Type: image/jpeg
+
+Uri: https://lala-fanfan.ru/wa-data/public/shop/products/58/11/11158/images/12016/12016.970.jpg
+File Name: C:\Downloaded Web Sites\lala-fanfan.ru\wa-data\public\shop\products\58\11\11158\images\12016\12016.970.jpg
+Content Type: image/jpeg
+
+Uri: https://lala-fanfan.ru/wa-data/public/shop/products/59/11/11159/images/12021/12021.0x290.jpg
+File Name: C:\Downloaded Web Sites\lala-fanfan.ru\wa-data\public\shop\products\59\11\11159\images\12021\12021.0x290.jpg
+Content Type: image/jpeg
+
+Uri: https://lala-fanfan.ru/wa-data/public/shop/products/59/11/11159/images/12021/12021.0x95.jpg
+File Name: C:\Downloaded Web Sites\lala-fanfan.ru\wa-data\public\shop\products\59\11\11159\images\12021\12021.0x95.jpg
+Content Type: image/jpeg
+
+Uri: https://lala-fanfan.ru/wa-data/public/shop/products/59/11/11159/images/12021/12021.570.jpg
+File Name: C:\Downloaded Web Sites\lala-fanfan.ru\wa-data\public\shop\products\59\11\11159\images\12021\12021.570.jpg
+Content Type: image/jpeg
+
+Uri: https://lala-fanfan.ru/wa-data/public/shop/products/59/11/11159/images/12021/12021.970.jpg
+File Name: C:\Downloaded Web Sites\lala-fanfan.ru\wa-data\public\shop\products\59\11\11159\images\12021\12021.970.jpg
+Content Type: image/jpeg
+
+Uri: https://lala-fanfan.ru/wa-data/public/shop/products/60/11/11160/images/12020/12020.0x290.jpg
+File Name: C:\Downloaded Web Sites\lala-fanfan.ru\wa-data\public\shop\products\60\11\11160\images\12020\12020.0x290.jpg
+Content Type: image/jpeg
+
+Uri: https://lala-fanfan.ru/wa-data/public/shop/products/60/11/11160/images/12020/12020.0x95.jpg
+File Name: C:\Downloaded Web Sites\lala-fanfan.ru\wa-data\public\shop\products\60\11\11160\images\12020\12020.0x95.jpg
+Content Type: image/jpeg
+
+Uri: https://lala-fanfan.ru/wa-data/public/shop/products/60/11/11160/images/12020/12020.570.jpg
+File Name: C:\Downloaded Web Sites\lala-fanfan.ru\wa-data\public\shop\products\60\11\11160\images\12020\12020.570.jpg
+Content Type: image/jpeg
+
+Uri: https://lala-fanfan.ru/wa-data/public/shop/products/60/11/11160/images/12020/12020.970.jpg
+File Name: C:\Downloaded Web Sites\lala-fanfan.ru\wa-data\public\shop\products\60\11\11160\images\12020\12020.970.jpg
+Content Type: image/jpeg
+
+Uri: https://lala-fanfan.ru/wa-data/public/shop/products/61/11/11161/images/12023/12023.0x290.jpg
+File Name: C:\Downloaded Web Sites\lala-fanfan.ru\wa-data\public\shop\products\61\11\11161\images\12023\12023.0x290.jpg
+Content Type: image/jpeg
+
+Uri: https://lala-fanfan.ru/wa-data/public/shop/products/61/11/11161/images/12023/12023.0x95.jpg
+File Name: C:\Downloaded Web Sites\lala-fanfan.ru\wa-data\public\shop\products\61\11\11161\images\12023\12023.0x95.jpg
+Content Type: image/jpeg
+
+Uri: https://lala-fanfan.ru/wa-data/public/shop/products/61/11/11161/images/12023/12023.570.jpg
+File Name: C:\Downloaded Web Sites\lala-fanfan.ru\wa-data\public\shop\products\61\11\11161\images\12023\12023.570.jpg
+Content Type: image/jpeg
+
+Uri: https://lala-fanfan.ru/wa-data/public/shop/products/61/11/11161/images/12023/12023.970.jpg
+File Name: C:\Downloaded Web Sites\lala-fanfan.ru\wa-data\public\shop\products\61\11\11161\images\12023\12023.970.jpg
+Content Type: image/jpeg
+
+Uri: https://lala-fanfan.ru/wa-data/public/shop/products/65/11/11165/images/12030/12030.0x290.jpg
+File Name: C:\Downloaded Web Sites\lala-fanfan.ru\wa-data\public\shop\products\65\11\11165\images\12030\12030.0x290.jpg
+Content Type: image/jpeg
+
+Uri: https://lala-fanfan.ru/wa-data/public/shop/products/65/11/11165/images/12030/12030.0x95.jpg
+File Name: C:\Downloaded Web Sites\lala-fanfan.ru\wa-data\public\shop\products\65\11\11165\images\12030\12030.0x95.jpg
+Content Type: image/jpeg
+
+Uri: https://lala-fanfan.ru/wa-data/public/shop/products/65/11/11165/images/12030/12030.570.jpg
+File Name: C:\Downloaded Web Sites\lala-fanfan.ru\wa-data\public\shop\products\65\11\11165\images\12030\12030.570.jpg
+Content Type: image/jpeg
+
+Uri: https://lala-fanfan.ru/wa-data/public/shop/products/65/11/11165/images/12030/12030.970.jpg
+File Name: C:\Downloaded Web Sites\lala-fanfan.ru\wa-data\public\shop\products\65\11\11165\images\12030\12030.970.jpg
+Content Type: image/jpeg
+
+Uri: https://lala-fanfan.ru/wa-data/public/shop/products/66/11/11166/images/12032/12032.0x290.jpg
+File Name: C:\Downloaded Web Sites\lala-fanfan.ru\wa-data\public\shop\products\66\11\11166\images\12032\12032.0x290.jpg
+Content Type: image/jpeg
+
+Uri: https://lala-fanfan.ru/wa-data/public/shop/products/66/11/11166/images/12032/12032.0x95.jpg
+File Name: C:\Downloaded Web Sites\lala-fanfan.ru\wa-data\public\shop\products\66\11\11166\images\12032\12032.0x95.jpg
+Content Type: image/jpeg
+
+Uri: https://lala-fanfan.ru/wa-data/public/shop/products/66/11/11166/images/12032/12032.570.jpg
+File Name: C:\Downloaded Web Sites\lala-fanfan.ru\wa-data\public\shop\products\66\11\11166\images\12032\12032.570.jpg
+Content Type: image/jpeg
+
+Uri: https://lala-fanfan.ru/wa-data/public/shop/products/66/11/11166/images/12032/12032.970.jpg
+File Name: C:\Downloaded Web Sites\lala-fanfan.ru\wa-data\public\shop\products\66\11\11166\images\12032\12032.970.jpg
+Content Type: image/jpeg
+
+Uri: https://lala-fanfan.ru/wa-data/public/shop/products/67/11/11167/images/12034/12034.0x290.jpg
+File Name: C:\Downloaded Web Sites\lala-fanfan.ru\wa-data\public\shop\products\67\11\11167\images\12034\12034.0x290.jpg
+Content Type: image/jpeg
+
+Uri: https://lala-fanfan.ru/wa-data/public/shop/products/67/11/11167/images/12034/12034.0x95.jpg
+File Name: C:\Downloaded Web Sites\lala-fanfan.ru\wa-data\public\shop\products\67\11\11167\images\12034\12034.0x95.jpg
+Content Type: image/jpeg
+
+Uri: https://lala-fanfan.ru/wa-data/public/shop/products/67/11/11167/images/12034/12034.570.jpg
+File Name: C:\Downloaded Web Sites\lala-fanfan.ru\wa-data\public\shop\products\67\11\11167\images\12034\12034.570.jpg
+Content Type: image/jpeg
+
+Uri: https://lala-fanfan.ru/wa-data/public/shop/products/67/11/11167/images/12034/12034.970.jpg
+File Name: C:\Downloaded Web Sites\lala-fanfan.ru\wa-data\public\shop\products\67\11\11167\images\12034\12034.970.jpg
+Content Type: image/jpeg
+
+Uri: https://lala-fanfan.ru/wa-data/public/shop/themes/pro_land/bem/callback/bg--custom.jpg?v1638367869
+File Name: C:\Downloaded Web Sites\lala-fanfan.ru\wa-data\public\shop\themes\pro_land\bem\callback\bg--custom.jpg
+Content Type: image/jpeg
+
+Uri: https://lala-fanfan.ru/wa-data/public/shop/themes/pro_land/bem/contact/default.jpg?v=2.4.1
+File Name: C:\Downloaded Web Sites\lala-fanfan.ru\wa-data\public\shop\themes\pro_land\bem\contact\default.jpg
+Content Type: image/jpeg
+
+Uri: https://lala-fanfan.ru/wa-data/public/shop/themes/pro_land/bem/echo_all.min.js?v1.12.6.152
+File Name: C:\Downloaded Web Sites\lala-fanfan.ru\wa-data\public\shop\themes\pro_land\bem\echo_all.min.js
+Content Type: application/x-javascript
+
+Uri: https://lala-fanfan.ru/wa-data/public/shop/themes/pro_land/bem/feature/icon1--custom.png?v1638367334
+File Name: C:\Downloaded Web Sites\lala-fanfan.ru\wa-data\public\shop\themes\pro_land\bem\feature\icon1--custom.png
+Content Type: image/png
+
+Uri: https://lala-fanfan.ru/wa-data/public/shop/themes/pro_land/bem/feature/icon2--custom.png?v1638367334
+File Name: C:\Downloaded Web Sites\lala-fanfan.ru\wa-data\public\shop\themes\pro_land\bem\feature\icon2--custom.png
+Content Type: image/png
+
+Uri: https://lala-fanfan.ru/wa-data/public/shop/themes/pro_land/bem/feature/icon3--custom.png?v1638367334
+File Name: C:\Downloaded Web Sites\lala-fanfan.ru\wa-data\public\shop\themes\pro_land\bem\feature\icon3--custom.png
+Content Type: image/png
+
+Uri: https://lala-fanfan.ru/wa-data/public/shop/themes/pro_land/bem/feature/icon4--custom.png?v1638367334
+File Name: C:\Downloaded Web Sites\lala-fanfan.ru\wa-data\public\shop\themes\pro_land\bem\feature\icon4--custom.png
+Content Type: image/png
+
+Uri: https://lala-fanfan.ru/wa-data/public/shop/themes/pro_land/bem/feature/image--custom.png?v1638529344
+File Name: C:\Downloaded Web Sites\lala-fanfan.ru\wa-data\public\shop\themes\pro_land\bem\feature\image--custom.png
+Content Type: image/png
+
+Uri: https://lala-fanfan.ru/wa-data/public/shop/themes/pro_land/bem/intro/image--custom.jpg?v1638367145?v=2.4.1
+File Name: C:\Downloaded Web Sites\lala-fanfan.ru\wa-data\public\shop\themes\pro_land\bem\intro\image--custom.jpg
+Content Type: image/jpeg
+
+Uri: https://lala-fanfan.ru/wa-data/public/shop/themes/pro_land/bem/mainslider/image--custom.png?v1638366973
+File Name: C:\Downloaded Web Sites\lala-fanfan.ru\wa-data\public\shop\themes\pro_land\bem\mainslider\image--custom.png
+Content Type: image/png
+
+Uri: https://lala-fanfan.ru/wa-data/public/shop/themes/pro_land/bem/mainslider/logo--custom.png?v1638370997?v=2.4.1
+File Name: C:\Downloaded Web Sites\lala-fanfan.ru\wa-data\public\shop\themes\pro_land\bem\mainslider\logo--custom.png
+Content Type: image/png
+
+Uri: https://lala-fanfan.ru/wa-data/public/shop/themes/pro_land/bem/menu/logo--custom.png?v1638370873
+File Name: C:\Downloaded Web Sites\lala-fanfan.ru\wa-data\public\shop\themes\pro_land\bem\menu\logo--custom.png
+Content Type: image/png
+
+Uri: https://lala-fanfan.ru/wa-data/public/shop/themes/pro_land/bem/preloader/loading-orange.gif
+File Name: C:\Downloaded Web Sites\lala-fanfan.ru\wa-data\public\shop\themes\pro_land\bem\preloader\loading-orange.gif
+Content Type: image/gif
+
+Uri: https://lala-fanfan.ru/wa-data/public/shop/themes/pro_land/bem/reviews/1--custom.jpg?v1638529658
+File Name: C:\Downloaded Web Sites\lala-fanfan.ru\wa-data\public\shop\themes\pro_land\bem\reviews\1--custom.jpg
+Content Type: image/jpeg
+
+Uri: https://lala-fanfan.ru/wa-data/public/shop/themes/pro_land/bem/reviews/2--custom.jpg?v1638419609
+File Name: C:\Downloaded Web Sites\lala-fanfan.ru\wa-data\public\shop\themes\pro_land\bem\reviews\2--custom.jpg
+Content Type: image/jpeg
+
+Uri: https://lala-fanfan.ru/wa-data/public/shop/themes/pro_land/bem/reviews/3--custom.jpg?v1638419609
+File Name: C:\Downloaded Web Sites\lala-fanfan.ru\wa-data\public\shop\themes\pro_land\bem\reviews\3--custom.jpg
+Content Type: image/jpeg
+
+Uri: https://lala-fanfan.ru/wa-data/public/shop/themes/pro_land/bem/shop/cart/loading.gif
+File Name: C:\Downloaded Web Sites\lala-fanfan.ru\wa-data\public\shop\themes\pro_land\bem\shop\cart\loading.gif
+Content Type: image/gif
+
+Uri: https://lala-fanfan.ru/wa-data/public/shop/themes/pro_land/bem/styles-orange.css?v1.12.6.152
+File Name: C:\Downloaded Web Sites\lala-fanfan.ru\wa-data\public\shop\themes\pro_land\bem\styles-orange.css
+Content Type: text/css
+
+Uri: https://lala-fanfan.ru/wa-data/public/shop/themes/pro_land/bem/subscribe/default.jpg?v=2.4.1
+File Name: C:\Downloaded Web Sites\lala-fanfan.ru\wa-data\public\shop\themes\pro_land\bem\subscribe\default.jpg
+Content Type: image/jpeg
+
+Uri: https://lala-fanfan.ru/wa-data/public/shop/themes/pro_land/bem/technics/image--custom.png?v1638367820
+File Name: C:\Downloaded Web Sites\lala-fanfan.ru\wa-data\public\shop\themes\pro_land\bem\technics\image--custom.png
+Content Type: image/png
+
+Uri: https://lala-fanfan.ru/wa-data/public/shop/themes/pro_land/bem/theme/fonts.css?v1.12.6.152
+File Name: C:\Downloaded Web Sites\lala-fanfan.ru\wa-data\public\shop\themes\pro_land\bem\theme\fonts.css
+Content Type: text/css
+
+Uri: https://lala-fanfan.ru/wa-data/public/shop/themes/pro_land/bem/theme/fonts/fontawesome-webfont.eot?
+File Name: C:\Downloaded Web Sites\lala-fanfan.ru\wa-data\public\shop\themes\pro_land\bem\theme\fonts\fontawesome-webfont-1.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://lala-fanfan.ru/wa-data/public/shop/themes/pro_land/bem/theme/fonts/fontawesome-webfont.eot?v=4.7.0
+File Name: C:\Downloaded Web Sites\lala-fanfan.ru\wa-data\public\shop\themes\pro_land\bem\theme\fonts\fontawesome-webfont.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://lala-fanfan.ru/wa-data/public/shop/themes/pro_land/bem/theme/fonts/fontawesome-webfont.svg?v=4.7.0
+File Name: C:\Downloaded Web Sites\lala-fanfan.ru\wa-data\public\shop\themes\pro_land\bem\theme\fonts\fontawesome-webfont.svg
+Content Type: image/svg+xml
+
+Uri: https://lala-fanfan.ru/wa-data/public/shop/themes/pro_land/bem/theme/fonts/fontawesome-webfont.ttf?v=4.7.0
+File Name: C:\Downloaded Web Sites\lala-fanfan.ru\wa-data\public\shop\themes\pro_land\bem\theme\fonts\fontawesome-webfont.ttf
+Content Type: application/octet-stream
+
+Uri: https://lala-fanfan.ru/wa-data/public/shop/themes/pro_land/bem/theme/fonts/fontawesome-webfont.woff2?v=4.7.0
+File Name: C:\Downloaded Web Sites\lala-fanfan.ru\wa-data\public\shop\themes\pro_land\bem\theme\fonts\fontawesome-webfont.woff2
+Content Type: application/font-woff2
+
+Uri: https://lala-fanfan.ru/wa-data/public/shop/themes/pro_land/bem/theme/fonts/fontawesome-webfont.woff?v=4.7.0
+File Name: C:\Downloaded Web Sites\lala-fanfan.ru\wa-data\public\shop\themes\pro_land\bem\theme\fonts\fontawesome-webfont.woff
+Content Type: application/font-woff
+
+Uri: https://lala-fanfan.ru/wa-data/public/shop/themes/pro_land/bem/theme/fonts/pro_land.eot
+File Name: C:\Downloaded Web Sites\lala-fanfan.ru\wa-data\public\shop\themes\pro_land\bem\theme\fonts\pro_land.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://lala-fanfan.ru/wa-data/public/shop/themes/pro_land/bem/theme/fonts/pro_land.eot?
+File Name: C:\Downloaded Web Sites\lala-fanfan.ru\wa-data\public\shop\themes\pro_land\bem\theme\fonts\pro_land-1.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://lala-fanfan.ru/wa-data/public/shop/themes/pro_land/bem/theme/fonts/pro_land.svg
+File Name: C:\Downloaded Web Sites\lala-fanfan.ru\wa-data\public\shop\themes\pro_land\bem\theme\fonts\pro_land.svg
+Content Type: image/svg+xml
+
+Uri: https://lala-fanfan.ru/wa-data/public/shop/themes/pro_land/bem/theme/fonts/pro_land.ttf
+File Name: C:\Downloaded Web Sites\lala-fanfan.ru\wa-data\public\shop\themes\pro_land\bem\theme\fonts\pro_land.ttf
+Content Type: application/octet-stream
+
+Uri: https://lala-fanfan.ru/wa-data/public/shop/themes/pro_land/bem/theme/fonts/pro_land.woff
+File Name: C:\Downloaded Web Sites\lala-fanfan.ru\wa-data\public\shop\themes\pro_land\bem\theme\fonts\pro_land.woff
+Content Type: application/font-woff
+
+Uri: https://lala-fanfan.ru/wa-data/public/shop/themes/pro_land/bem/theme/loading16.gif
+File Name: C:\Downloaded Web Sites\lala-fanfan.ru\wa-data\public\shop\themes\pro_land\bem\theme\loading16.gif
+Content Type: image/gif
+
+Uri: https://lala-fanfan.ru/wa-data/public/shop/themes/pro_land/bem/vendors.min.css?v1.12.6.152
+File Name: C:\Downloaded Web Sites\lala-fanfan.ru\wa-data\public\shop\themes\pro_land\bem\vendors.min.css
+Content Type: text/css
+
+Uri: https://lala-fanfan.ru/wa-data/public/shop/themes/pro_land/bem/vendors.min.js?v1.12.6.152
+File Name: C:\Downloaded Web Sites\lala-fanfan.ru\wa-data\public\shop\themes\pro_land\bem\vendors.min.js
+Content Type: application/x-javascript
+
+Uri: https://lala-fanfan.ru/wa-data/public/shop/themes/pro_land/bem/webasyst/loading16.gif
+File Name: C:\Downloaded Web Sites\lala-fanfan.ru\wa-data\public\shop\themes\pro_land\bem\webasyst\loading16.gif
+Content Type: image/gif
+
+Uri: https://lala-fanfan.ru/wa-data/public/shop/themes/pro_land/bem/work/arc-down.png
+File Name: C:\Downloaded Web Sites\lala-fanfan.ru\wa-data\public\shop\themes\pro_land\bem\work\arc-down.png
+Content Type: image/png
+
+Uri: https://lala-fanfan.ru/wa-data/public/shop/themes/pro_land/bem/work/arc.png
+File Name: C:\Downloaded Web Sites\lala-fanfan.ru\wa-data\public\shop\themes\pro_land\bem\work\arc.png
+Content Type: image/png
+
+Uri: https://lala-fanfan.ru/wa-data/public/shop/themes/pro_land/bem/work/bg--custom.jpg?v1638367432
+File Name: C:\Downloaded Web Sites\lala-fanfan.ru\wa-data\public\shop\themes\pro_land\bem\work\bg--custom.jpg
+Content Type: image/jpeg
+
+Uri: https://lala-fanfan.ru/wa-data/public/shop/themes/pro_land/bower_components/fancybox/source/blank.gif
+File Name: C:\Downloaded Web Sites\lala-fanfan.ru\wa-data\public\shop\themes\pro_land\bower_components\fancybox\source\blank.gif
+Content Type: image/gif
+
+Uri: https://lala-fanfan.ru/wa-data/public/shop/themes/pro_land/bower_components/fancybox/source/fancybox_loading.gif
+File Name: C:\Downloaded Web Sites\lala-fanfan.ru\wa-data\public\shop\themes\pro_land\bower_components\fancybox\source\fancybox_loading.gif
+Content Type: image/gif
+
+Uri: https://lala-fanfan.ru/wa-data/public/shop/themes/pro_land/bower_components/fancybox/source/fancybox_loading@2x.gif
+File Name: C:\Downloaded Web Sites\lala-fanfan.ru\wa-data\public\shop\themes\pro_land\bower_components\fancybox\source\fancybox_loading@2x.gif
+Content Type: image/gif
+
+Uri: https://lala-fanfan.ru/wa-data/public/shop/themes/pro_land/bower_components/fancybox/source/fancybox_overlay.png
+File Name: C:\Downloaded Web Sites\lala-fanfan.ru\wa-data\public\shop\themes\pro_land\bower_components\fancybox\source\fancybox_overlay.png
+Content Type: image/png
+
+Uri: https://lala-fanfan.ru/wa-data/public/shop/themes/pro_land/bower_components/fancybox/source/fancybox_sprite.png
+File Name: C:\Downloaded Web Sites\lala-fanfan.ru\wa-data\public\shop\themes\pro_land\bower_components\fancybox\source\fancybox_sprite.png
+Content Type: image/png
+
+Uri: https://lala-fanfan.ru/wa-data/public/shop/themes/pro_land/bower_components/fancybox/source/fancybox_sprite@2x.png
+File Name: C:\Downloaded Web Sites\lala-fanfan.ru\wa-data\public\shop\themes\pro_land\bower_components\fancybox\source\fancybox_sprite@2x.png
+Content Type: image/png
+
+Uri: https://lala-fanfan.ru/wa-data/public/shop/themes/pro_land/users.css?v=b3ebf362bce40afd81e101621556307e
+File Name: C:\Downloaded Web Sites\lala-fanfan.ru\wa-data\public\shop\themes\pro_land\users.css
+Content Type: text/css
+
+Uri: https://lala-fanfan.ru/wa-data/public/site/imgcat/1-225x225.jpg
+File Name: C:\Downloaded Web Sites\lala-fanfan.ru\wa-data\public\site\imgcat\1-225x225.jpg
+Content Type: image/jpeg
+
+Uri: https://lala-fanfan.ru/wa-data/public/site/imgcat/3-225x225.jpg
+File Name: C:\Downloaded Web Sites\lala-fanfan.ru\wa-data\public\site\imgcat\3-225x225.jpg
+Content Type: image/jpeg
+
+Uri: https://lala-fanfan.ru/wa-data/public/site/imgcat/4-225x225.jpg
+File Name: C:\Downloaded Web Sites\lala-fanfan.ru\wa-data\public\site\imgcat\4-225x225.jpg
+Content Type: image/jpeg
+
+Uri: https://mc.yandex.ru/watch/86749247
+File Name: C:\Downloaded Web Sites\lala-fanfan.ru\watch\86749247
+Content Type: image/gif
+
+Uri: https://top-fwz1.mail.ru/counter?id=3233443;js=na
+File Name: C:\Downloaded Web Sites\lala-fanfan.ru\counter
+Content Type: image/gif
+
